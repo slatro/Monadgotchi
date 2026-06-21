@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Local environment variables (contains private keys!)
+.env
+
+# Hardhat build folders
+cache/
+artifacts/
+
+# System files
+.DS_Store
